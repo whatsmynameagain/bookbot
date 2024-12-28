@@ -1,2 +1,4 @@
 # bookbot
-part of boot.dev
+part of boot.de
+
+BookBot is my first project!v
